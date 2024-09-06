@@ -23,6 +23,7 @@ find_package(ament_cmake_export_dependencies REQUIRED)
 find_package(gz_cmake_vendor REQUIRED)
 find_package(gz_math_vendor REQUIRED)
 find_package(gz_utils_vendor REQUIRED)
+find_package(spdlog_vendor REQUIRED)
 
 # Set the VERSION_MATCH to "EXACT" by default, but relax the requirement
 # if we are users are building from source (determined by the
@@ -43,8 +44,6 @@ ament_vendor(${LIB_NAME_UNDERSCORE}_vendor
   SATISFIED ${${LIB_NAME_FULL}_FOUND}
   VCS_URL https://github.com/gazebosim/${GITHUB_NAME}.git
   VCS_VERSION ${GITHUB_NAME}${LIB_VER_MAJOR}_${LIB_VER}${LIB_VER_SUFFIX}
-  CMAKE_ARGS
-    -DBUILD_DOCS:BOOL=OFF
   GLOBAL_HOOK
 )
 
@@ -63,6 +62,7 @@ ament_export_dependencies(
   gz_cmake_vendor
   gz_math_vendor
   gz_utils_vendor
+  spdlog_vendor
 )
 
 if(NOT ${${LIB_NAME_FULL}_FOUND})

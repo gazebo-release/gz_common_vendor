@@ -28,19 +28,18 @@
   <build_depend>ffmpeg-dev</build_depend>
   <build_depend>libfreeimage-dev</build_depend>
   <build_depend>libgdal-dev</build_depend>
-  <build_depend>spdlog</build_depend>
   <build_depend>tinyxml2</build_depend>
   <build_depend>uuid</build_depend>
   <exec_depend>assimp-dev</exec_depend>
   <exec_depend>ffmpeg-dev</exec_depend>
   <exec_depend>libfreeimage-dev</exec_depend>
   <exec_depend>libgdal-dev</exec_depend>
-  <exec_depend>spdlog</exec_depend>
   <exec_depend>tinyxml2</exec_depend>
   <exec_depend>uuid</exec_depend>
   <depend>gz_cmake_vendor</depend>
   <depend>gz_math_vendor</depend>
   <depend>gz_utils_vendor</depend>
+  <depend>spdlog_vendor</depend>
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
   <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-common6</depend>
