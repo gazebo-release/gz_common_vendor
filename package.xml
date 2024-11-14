@@ -24,6 +24,8 @@
   <buildtool_depend>ament_cmake_test</buildtool_depend>
   <buildtool_depend>ament_cmake_vendor_package</buildtool_depend>
 
+  <buildtool_depend>cmake</buildtool_depend>
+  <buildtool_depend>pkg-config</buildtool_depend>
   <build_depend>assimp-dev</build_depend>
   <build_depend>ffmpeg-dev</build_depend>
   <build_depend>libfreeimage-dev</build_depend>
