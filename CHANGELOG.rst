@@ -2,6 +2,11 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Add pkg-config to buildtool dependencies (`#7 <https://github.com/gazebo-release/gz_common_vendor/issues/7>`_)
+* Contributors: Addisu Z. Taddese
+
 0.2.0 (2024-09-30)
 ------------------
 * Bump version to 6.0.0 (`#4 <https://github.com/gazebo-release/gz_common_vendor/issues/4>`_)
