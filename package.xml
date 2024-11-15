@@ -12,7 +12,7 @@
   -->
   <version>0.2.1</version>
   <description>
-    Vendor package for: gz-common6 6.0.0
+    Vendor package for: gz-common5 5.7.0
 
     Gazebo Common : AV, Graphics, Events, and much more.
   </description>
@@ -30,21 +30,22 @@
   <build_depend>ffmpeg-dev</build_depend>
   <build_depend>libfreeimage-dev</build_depend>
   <build_depend>libgdal-dev</build_depend>
+  <build_depend>libgts</build_depend>
   <build_depend>tinyxml2</build_depend>
   <build_depend>uuid</build_depend>
   <exec_depend>assimp-dev</exec_depend>
   <exec_depend>ffmpeg-dev</exec_depend>
   <exec_depend>libfreeimage-dev</exec_depend>
   <exec_depend>libgdal-dev</exec_depend>
+  <exec_depend>libgts</exec_depend>
   <exec_depend>tinyxml2</exec_depend>
   <exec_depend>uuid</exec_depend>
   <depend>gz_cmake_vendor</depend>
   <depend>gz_math_vendor</depend>
   <depend>gz_utils_vendor</depend>
-  <depend>spdlog_vendor</depend>
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
-  <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-common6</depend>
+  <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-common5</depend>
 
   <test_depend>ament_cmake_copyright</test_depend>
   <test_depend>ament_cmake_lint_cmake</test_depend>
