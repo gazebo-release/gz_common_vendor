@@ -2,8 +2,8 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.4 (2025-06-27)
+------------------
 * Merge pull request (`#14 <https://github.com/gazebo-release/gz_common_vendor/issues/14>`_ )
   Bump version to 6.1.0
 * Contributors: Ian Chen, Jose Luis Rivero
