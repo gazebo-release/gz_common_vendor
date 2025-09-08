@@ -2,8 +2,8 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.0 (2025-09-08)
+------------------
 * Jetty support: 7.0.0-pre1 (`#15 <https://github.com/gazebo-release/gz_common_vendor/issues/15>`_)
 * Contributors: Steve Peters
 
