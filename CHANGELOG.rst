@@ -2,6 +2,11 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 7.0.0-pre2 (`#16 <https://github.com/gazebo-release/gz_common_vendor/issues/16>`_)
+* Contributors: Addisu Z. Taddese
+
 0.3.0 (2025-09-08)
 ------------------
 * Jetty support: 7.0.0-pre1 (`#15 <https://github.com/gazebo-release/gz_common_vendor/issues/15>`_)
