@@ -2,6 +2,15 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Merge pull request `#17 <https://github.com/gazebo-release/gz_common_vendor/issues/17>`_ from gazebo-release/releasepy/rolling/7.0.0
+  Bump version to 7.0.0
+* Merge remote-tracking branch 'origin' into releasepy/rolling/7.0.0
+* Add dsv for PYTHONPATH for Jetty packages (`#18 <https://github.com/gazebo-release/gz_common_vendor/issues/18>`_)
+* Bump version to 7.0.0
+* Contributors: Addisu Z. Taddese, Jose Luis Rivero, Steve Peters
+
 0.3.1 (2025-09-24)
 ------------------
 * Bump version to 7.0.0-pre2 (`#16 <https://github.com/gazebo-release/gz_common_vendor/issues/16>`_)
