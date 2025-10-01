@@ -2,8 +2,8 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.3.2 (2025-10-01)
+------------------
 * Merge pull request `#17 <https://github.com/gazebo-release/gz_common_vendor/issues/17>`_ from gazebo-release/releasepy/rolling/7.0.0
   Bump version to 7.0.0
 * Merge remote-tracking branch 'origin' into releasepy/rolling/7.0.0
