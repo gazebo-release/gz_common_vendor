@@ -2,6 +2,11 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 6.2.1 (`#20 <https://github.com/gazebo-release/gz_common_vendor/issues/20>`_)
+* Contributors: Ian Chen
+
 0.2.5 (2025-09-04)
 ------------------
 * Bump version to 6.1.0 (`#13 <https://github.com/gazebo-release/gz_common_vendor/issues/13>`_)
