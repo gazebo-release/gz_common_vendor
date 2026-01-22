@@ -2,6 +2,11 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 7.0.1 (`#21 <https://github.com/gazebo-release/gz_common_vendor/issues/21>`_)
+* Contributors: Ian Chen
+
 0.3.2 (2025-10-01)
 ------------------
 * Merge pull request `#17 <https://github.com/gazebo-release/gz_common_vendor/issues/17>`_ from gazebo-release/releasepy/rolling/7.0.0
