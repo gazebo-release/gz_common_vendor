@@ -2,6 +2,11 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 7.4.0 (`#34 <https://github.com/gazebo-release/gz_common_vendor/issues/34>`_)
+* Contributors: Carlos Agüero
+
 0.3.7 (2026-08-18)
 ------------------
 * Bump version to 7.3.1 (`#31 <https://github.com/gazebo-release/gz_common_vendor/issues/31>`_)
