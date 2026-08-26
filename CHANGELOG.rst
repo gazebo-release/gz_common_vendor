@@ -2,6 +2,11 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Upgrade to Rotary prerelease (`#32 <https://github.com/gazebo-release/gz_common_vendor/issues/32>`_)
+* Contributors: Addisu Z. Taddese
+
 0.4.2 (2026-08-18)
 ------------------
 * Bump version to 7.3.1 (`#30 <https://github.com/gazebo-release/gz_common_vendor/issues/30>`_)
