@@ -12,7 +12,7 @@
   -->
   <version>0.4.2</version>
   <description>
-    Vendor package for: gz-common 7.3.1
+    Vendor package for: gz-common 8.0.0
 
     Gazebo Common : AV, Graphics, Events, and much more.
   </description>
@@ -28,11 +28,13 @@
   <buildtool_depend>pkg-config</buildtool_depend>
   <build_depend>assimp-dev</build_depend>
   <build_depend>ffmpeg-dev</build_depend>
+  <build_depend>benchmark</build_depend>
   <build_depend>libgdal-dev</build_depend>
   <build_depend>tinyxml2</build_depend>
   <build_depend>uuid</build_depend>
   <exec_depend>assimp-dev</exec_depend>
   <exec_depend>ffmpeg-dev</exec_depend>
+  <exec_depend>benchmark</exec_depend>
   <exec_depend>libgdal-dev</exec_depend>
   <exec_depend>tinyxml2</exec_depend>
   <exec_depend>uuid</exec_depend>
