@@ -2,8 +2,8 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.9 (2026-08-31)
+------------------
 * Enable Python bindings (`#37 <https://github.com/gazebo-release/gz_common_vendor/issues/37>`_)
 * Contributors: Addisu Z. Taddese
 
