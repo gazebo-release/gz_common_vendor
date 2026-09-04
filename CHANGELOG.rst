@@ -2,8 +2,8 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.2.10 (2026-09-04)
+-------------------
 * Revert "Enable Python bindings (`#37 <https://github.com/gazebo-release/gz_common_vendor/issues/37>`_)" (`#39 <https://github.com/gazebo-release/gz_common_vendor/issues/39>`_)
   This reverts commit 3eb5a453933bfa1c247ca458ba343d9ed21c5990.
 * Contributors: Addisu Z. Taddese
