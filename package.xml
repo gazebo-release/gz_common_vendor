@@ -17,7 +17,7 @@
     Gazebo Common : AV, Graphics, Events, and much more.
   </description>
   <maintainer email="addisuzt@intrinsic.ai">Addisu Z. Taddese</maintainer>
-  <license>Apache License 2.0</license>
+  <license>Apache-2.0</license>
   <url type="website">https://github.com/gazebosim/gz-common</url>
 
   <buildtool_depend>ament_cmake_core</buildtool_depend>
