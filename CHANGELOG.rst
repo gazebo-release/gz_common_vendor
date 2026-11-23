@@ -2,6 +2,11 @@
 Changelog for package gz_common_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Bump version to 6.4.1 (`#41 <https://github.com/gazebo-release/gz_common_vendor/issues/41>`_)
+* Contributors: Luca Della Vedova
+
 0.2.10 (2026-09-04)
 -------------------
 * Revert "Enable Python bindings (`#37 <https://github.com/gazebo-release/gz_common_vendor/issues/37>`_)" (`#39 <https://github.com/gazebo-release/gz_common_vendor/issues/39>`_)
